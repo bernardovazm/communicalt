@@ -1,0 +1,32 @@
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\Communicalt Flat Design - Layout v1.0.exe.config
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\Communicalt Flat Design - Layout v1.0.exe
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\Communicalt Flat Design - Layout v1.0.pdb
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.csprojAssemblyReference.cache
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.Properties.Resources.resources
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.csproj.GenerateResource.cache
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.csproj.CoreCompileInputs.cache
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.exe
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.pdb
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmMenu.resources
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmLogin.resources
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmConfig.resources
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmSimbolo.resources
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmImportar.resources
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmNovaPrancheta.resources
+C:\Users\reV\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmPranchetas.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\Communicalt Flat Design - Layout v1.0.exe.config
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\Communicalt Flat Design - Layout v1.0.exe
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\Communicalt Flat Design - Layout v1.0.pdb
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.csprojAssemblyReference.cache
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmConfig.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmImportar.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmLogin.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmMenu.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmNovaPrancheta.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmPranchetas.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.frmSimbolo.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt_Flat_Design___Layout_v1._0.Properties.Resources.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.csproj.GenerateResource.cache
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.exe
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.pdb

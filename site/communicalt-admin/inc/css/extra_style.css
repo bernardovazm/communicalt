@@ -1,0 +1,125 @@
+
+/**
+ * ====================================
+ * CSS EXTRA P INSERÇÃO DE ESTILOS
+ * ====================================
+ */
+
+.d-espacito{
+	padding: 7px;
+}
+.contact{
+	padding: 50px 0px 10px;
+ }
+ 
+.smlogo {
+	height: 55px;
+	width: 55px;
+}
+ 
+.bglogo {
+	height: 95px;
+	width: 95px;
+} 
+
+.blueborderbottom {
+    border-bottom: 5px solid rgb(0, 160, 246);
+}
+
+.standart-nav {
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+@media (min-width:992px){
+
+.top-nav  {
+    top: -70px;
+}
+
+
+}
+
+@media (max-width:992px){
+	
+.top-nav {
+	top: 0px;
+}
+
+
+}
+
+/**
+ * ====================================
+ * Contact Form
+ * ====================================
+ */
+.contact-form .title {
+  margin: 0 0 20px 0;
+}
+.contact-form .close {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  font-size: 27px;
+}
+.contact-form .close:focus {
+  outline: 0;
+}
+.contact-form .single-form {
+  padding: 35px 20px;
+}
+.contact-form .single-form .form-control {
+  border: 1px solid;
+  border-radius: 4px 4px 4px 4px;
+  -webkit-border-radius: 4px 4px 4px 4px;
+  -moz-border-radius: 4px 4px 4px 4px;
+  -ms-border-radius: 4px 4px 4px 4px;
+  -o-border-radius: 4px 4px 4px 4px;
+}
+.contact-form .single-form .btn {
+  width: 100%;
+  margin: 0px !important;
+}
+
+/**
+ * ====================================
+ * Footer Section 1
+ * ====================================
+ */
+ 
+ 
+.footer-section-1 {
+  position: relative;
+}
+.footer-section-1 .section-separator {
+  padding: 90px 0px 90px;
+}
+.footer-section-1 .logo-link {
+  display: inline-block;
+}
+.footer-section-1 .sub-title {
+  margin: 0;
+}
+.footer-section-1 .title {
+  margin-bottom: 0px;
+}
+.footer-section-1 .each-item .inner {
+  padding: 0 20px;
+}
+.footer-section-1 .each-item:last-child {
+  border-right: 0px solid;
+}
+
+.social-icon {
+	width: 35px;
+}

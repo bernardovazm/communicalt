@@ -1,0 +1,85 @@
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\Communicalt Flat Design - Layout v1.0.exe.config
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\Communicalt Flat Design - Layout v1.0.exe
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\Communicalt Flat Design - Layout v1.0.pdb
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.csprojAssemblyReference.cache
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.frmConfig.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.frmImportar.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.frmLogin.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.frmNovaPrancheta.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.frmPranchetas.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.frmSimbolo.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.csproj.GenerateResource.cache
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.csproj.CoreCompileInputs.cache
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.exe
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\Communicalt Flat Design - Layout v1.0.pdb
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.frmMenu.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.Properties.Resources.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.frmNaN.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\bin\Debug\System.IO.Compression.dll
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.csproj.CopyComplete
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\Communicalt Flat Design - Layout v1.0\obj\Debug\CommunicaltV1.frmNovaPranchetaold.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\bin\Debug\CommunicaltV1.exe.config
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\bin\Debug\CommunicaltV1.exe
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\bin\Debug\CommunicaltV1.pdb
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\bin\Debug\System.IO.Compression.dll
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.csprojAssemblyReference.cache
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.frmImportar.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.frmLogin.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.frmConfig.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.frmNaN.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.frmMenu.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.frmNovaPranchetaold.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.frmNovaPrancheta.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.frmPranchetas.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.frmSimbolo.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.Properties.Resources.resources
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.csproj.GenerateResource.cache
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.csproj.CoreCompileInputs.cache
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.csproj.CopyComplete
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.exe
+C:\Users\Lordcave\Desktop\Communicalt Flat Design - Layout v1.0\CommunicaltV1\obj\Debug\CommunicaltV1.pdb
+H:\Communicalt\CommunicaltV1\CommunicaltV1\bin\Debug\CommunicaltV1.exe.config
+H:\Communicalt\CommunicaltV1\CommunicaltV1\bin\Debug\CommunicaltV1.exe
+H:\Communicalt\CommunicaltV1\CommunicaltV1\bin\Debug\CommunicaltV1.pdb
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.csprojResolveAssemblyReference.cache
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmImportar.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmLogin.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmConfig.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmNaN.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmMenu.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmNovaPranchetaold.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmNovaPrancheta.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmPranchetas.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmSimbolo.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.Properties.Resources.resources
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.csproj.GenerateResource.Cache
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.exe
+H:\Communicalt\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.pdb
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.csprojAssemblyReference.cache
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmImportar.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmLogin.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmConfig.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmNaN.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmMenu.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmNovaPrancheta.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmPranchetas.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmSimbolo.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.Properties.Resources.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.csproj.GenerateResource.cache
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.csproj.CoreCompileInputs.cache
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.exe
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.pdb
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\bin\Debug\CommunicaltV1.exe.config
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\bin\Debug\CommunicaltV1.exe
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\bin\Debug\CommunicaltV1.pdb
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\bin\Debug\System.IO.Compression.dll
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.csproj.CopyComplete
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.csproj.ResolveComReference.cache
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmEmulador.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\Interop.WMLSS.dll
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\obj\Debug\CommunicaltV1.frmExportar.resources
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\bin\Debug\MySql.Data.dll
+C:\Users\Lordcave\Desktop\CommunicaltV1\CommunicaltV1\bin\Debug\MySql.Data.xml
