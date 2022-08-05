@@ -12,8 +12,8 @@ The software allows the creation of clipboards and the use of auditory resources
 # Our Software
  ![Image Software Communicalt](site/images/project_screenshots/app/add_simbolo.png?raw=true "Image Software Communicalt")
  ![Image Software Communicalt](site/images/project_screenshots/app/emulador_pranchetas.png?raw=true "Image Software Communicalt")
- ![Image Software Communicalt](site/images/project_screenshots/app/login.png?raw=true "Image Software Communicalt")
  ![Image Software Communicalt](site/images/project_screenshots/app/prancheta.png?raw=true "Image Software Communicalt")
+ ![Image Software Communicalt](site/images/project_screenshots/app/login.png?raw=true "Image Software Communicalt")
  
 # Site
  ![Image Communicalt](site/images/project_screenshots/site/site1.png?raw=true "Image Communicalt")
