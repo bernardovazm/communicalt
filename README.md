@@ -10,12 +10,12 @@ We have developed alternative communication clipboard creation software and a pl
 The software allows the creation of clipboards and the use of auditory resources implemented in the symbols to keep the attention of users in an AEE (Specialized Educational Service) institutions.
  
 # Our Software
- ![Image Software Communicalt](images/project_screenshots/app/add_simbolo.png?raw=true "Image Software Communicalt")
- ![Image Software Communicalt](images/project_screenshots/app/emulador_pranchetas.png?raw=true "Image Software Communicalt")
- ![Image Software Communicalt](images/project_screenshots/app/login.png?raw=true "Image Software Communicalt")
- ![Image Software Communicalt](images/project_screenshots/app/prancheta.png?raw=true "Image Software Communicalt")
+ ![Image Software Communicalt](site/images/project_screenshots/app/add_simbolo.png?raw=true "Image Software Communicalt")
+ ![Image Software Communicalt](site/images/project_screenshots/app/emulador_pranchetas.png?raw=true "Image Software Communicalt")
+ ![Image Software Communicalt](site/images/project_screenshots/app/login.png?raw=true "Image Software Communicalt")
+ ![Image Software Communicalt](site/images/project_screenshots/app/prancheta.png?raw=true "Image Software Communicalt")
  
 # Site
- ![Image Communicalt](images/project_screenshots/site/site1.png?raw=true "Image Communicalt")
+ ![Image Communicalt](site/images/project_screenshots/site/site1.png?raw=true "Image Communicalt")
 
 
