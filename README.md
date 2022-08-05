@@ -2,8 +2,8 @@
 
 This was a Technological Innovation Project made in 2018 with a Web Platform and App, presented at FINIT BH on that year.
 
-- Context of the project:
-We are a group of students who seek to help professionals, institutions, responsibles and parents who are in contact with people that cannot communicate. That's why we created our alternative communication software.
+# Context of the project
+We are a group of students who seek to help professionals, institutions, responsibles and parents who are in contact with people that cannot communicate. That's why we created our alternative communication software. 
 
 We have developed alternative communication clipboard creation software and a platform to store student information, which helps professionals specialized in this area.
 
